@@ -116,6 +116,12 @@ Use these **demo credentials** to test the integration:
 
 ![Payment Form](public/esewa_login.png)
 
+- _Using `9806800001` as ID and `1122` as MPIN_
+
+![Verification Code](public/verification.png)
+
+- _Using `123456` as verification token_
+
 ---
 
 ## 6. How to Run 🚀
