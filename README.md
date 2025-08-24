@@ -1,13 +1,13 @@
 # eSewa Integration Guide (React) 💸
 
 <p align="center">
-  <a href="https://github.com/your-username/esewa-integration-guide-react/stargazers">
-    <img src="https://img.shields.io/github/stars/your-username/esewa-integration-guide-react?style=social&label=Stars&color=yellow" alt="Stars">
+  <a href="https://github.com/AmanRai8/Esewa-integration/stargazers">
+    <img src="https://img.shields.io/github/stars/AmanRai8/Esewa-integration?style=social&label=Stars&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/your-username/esewa-integration-guide-react/network/members">
-    <img src="https://img.shields.io/github/forks/your-username/esewa-integration-guide-react?style=social&label=Forks&color=blue" alt="Forks">
+  <a href="https://github.com/AmanRai8/Esewa-integration/network/members">
+    <img src="https://img.shields.io/github/forks/AmanRai8/Esewa-integration?style=social&label=Forks&color=blue" alt="Forks">
   </a>
-  <img src="https://img.shields.io/github/license/your-username/esewa-integration-guide-react" alt="License">
+  <img src="https://img.shields.io/github/license/AmanRai8/Esewa-integration" alt="License">
   <img src="https://img.shields.io/badge/React-18.2.0-blue" alt="React">
 </p>
 
